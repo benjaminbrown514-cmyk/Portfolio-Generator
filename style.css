@@ -1,0 +1,18 @@
+.header{
+        background-color: rgb(249, 209, 168);
+        font-family: 'Lucida Grande';
+        color: rgb(219, 134, 70);
+} 
+
+header{
+    border-bottom: 2px solid black;
+}
+
+
+body{
+    background-color: rgb(249, 209, 168);
+    line-height: 1.5;
+}
+
+
+
