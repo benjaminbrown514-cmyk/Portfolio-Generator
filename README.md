@@ -73,5 +73,8 @@ File System (fs): Node.js module used to write the HTML file.
 
 HTML5 & CSS3: For the structure and styling of the generated portfolio.
 
+mockup: ![IMG_0136](https://github.com/user-attachments/assets/eaebe08f-206c-4464-b660-19e86de7e82c)
+
+
 License
 Distributed under the MIT License. See LICENSE for more information.
