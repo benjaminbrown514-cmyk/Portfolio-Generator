@@ -37,8 +37,9 @@ Bash
 git clone https://github.com/your-username/portfolio-generator.git
 Navigate to the project directory:
 
-url link:
-(https://github.com/benjaminbrown514-cmyk/Portfolio-Generator) 
+url and deployment links:
+(https://github.com/benjaminbrown514-cmyk/Portfolio-Generator)
+(https://benjaminbrown514-cmyk.github.io/Portfolio-Generator/) 
 Bash
 cd portfolio-generator
 Install dependencies:
