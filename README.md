@@ -62,7 +62,7 @@ Demo
 
 [!IMPORTANT]
 Insert a link to your walkthrough video or a GIF here!
-Example: ![Application Walkthrough](./assets/demo-video.gif)
+Example: 
 
 Technologies Used
 Node.js: JavaScript runtime environment.
